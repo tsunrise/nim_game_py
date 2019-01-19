@@ -1,3 +1,5 @@
-# bash_game_py
+# nim_game_py
 
-###### This is a test.
+An exhaustive but not efficient implementation of a nim game. 
+
+
